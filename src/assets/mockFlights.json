@@ -1,0 +1,102 @@
+[
+    {
+        "airline": "IranAir",
+        "price": 7200000,
+        "flightTime": "2023-12-29T09:40:00"
+    },
+    {
+        "airline": "Emirates",
+        "price": 9800000,
+        "flightTime": "2023-12-26T24:00:00"
+    },
+    {
+        "airline": "Qatar Airways",
+        "price": 8500000,
+        "flightTime": "2023-12-27T01:20:00"
+    },
+    {
+        "airline": "Turkish Airlines",
+        "price": 6000000,
+        "flightTime": "2023-12-25T10:15:00"
+    },
+    {
+        "airline": "IranAir",
+        "price": 7800000,
+        "flightTime": "2023-12-30T19:00:00"
+    },
+    {
+        "airline": "Qatar Airways",
+        "price": 6500000,
+        "flightTime": "2023-12-29T06:40:00"
+    },
+    {
+        "airline": "IranAir",
+        "price": 7300000,
+        "flightTime": "2023-12-28T14:20:00"
+    },
+    {
+        "airline": "Qatar Airways",
+        "price": 5900000,
+        "flightTime": "2023-12-27T08:50:00"
+    },
+    {
+        "airline": "Turkish Airlines",
+        "price": 8600000,
+        "flightTime": "2023-12-31T22:35:00"
+    },
+    {
+        "airline": "IranAir",
+        "price": 7100000,
+        "flightTime": "2023-12-30T12:45:00"
+    },
+    {
+        "airline": "IranAir",
+        "price": 8200000,
+        "flightTime": "2023-12-26T15:30:00"
+    },
+    {
+        "airline": "Emirates",
+        "price": 6800000,
+        "flightTime": "2023-12-28T07:10:00"
+    },
+    {
+        "airline": "IranAir",
+        "price": 5500000,
+        "flightTime": "2023-12-27T13:25:00"
+    },
+    {
+        "airline": "Emirates",
+        "price": 6400000,
+        "flightTime": "2023-12-25T17:50:00"
+    },
+    {
+        "airline": "Emirates",
+        "price": 5900000,
+        "flightTime": "2023-12-30T04:35:00"
+    },
+    {
+        "airline": "IranAir",
+        "price": 6200000,
+        "flightTime": "2023-12-29T22:20:00"
+    },
+    {
+        "airline": "Emirates",
+        "price": 7800000,
+        "flightTime": "2023-12-31T03:45:00"
+    },
+    {
+        "airline": "Emirates",
+        "price": 8300000,
+        "flightTime": "2023-12-28T20:10:00"
+    },
+    {
+        "airline": "IranAir",
+        "price": 7600000,
+        "flightTime": "2023-12-25T23:00:00"
+    },
+    {
+        "airline": "Emirates",
+        "price": 6100000,
+        "flightTime": "2023-12-26T10:55:00"
+    }
+]
